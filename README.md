@@ -2,7 +2,7 @@
 
 
 </h1>
-<h3 align="center"> Developer👩‍💻; | Undergrad student</h3>
+<h3 align="center"> Developer;Undergrad student</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
