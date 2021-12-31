@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Hi, I'm Samuel <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+
+
+</h1>
 <h3 align="center">Developer 💖 | Undergrad student</h3>
 
 
